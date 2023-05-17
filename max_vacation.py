@@ -1,7 +1,6 @@
 # https://leetcode.com/discuss/interview-experience/2122483/find-max-number-of-days-for-which-a-person-can-go-for-vacation
 # this was an interview question for me. 
 # I couldn't solve it for the first time in O(n)
-# I still can not understand why this works! 
 
 # pto = paid time off
 def find_max_vacation_days(calendar, pto):
