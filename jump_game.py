@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/jump-game/
+# I solved it via Dynamic programming. It is solvable via greedy.
 from typing import List
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
